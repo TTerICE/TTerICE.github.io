@@ -1,0 +1,11 @@
+/* .fixed-background {
+    background-image: url('C:\Users\terry\OneDrive\桌面\web\期末\img\nike-sneakers-white-minimalist-wallpaper-2-scaled.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    min-height: 100vh;
+  } */
+
+  .lovewallpaper{
+    background-image: url(img/sneaker\ background.png);
+    
+  }
